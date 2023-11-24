@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productlist>
+    <product id="20893">
+        <name>laptop</name>
+        <price>20000</price>
+        <id>20893</id>
+        <description>HP NoteBook is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The HP NoteBook packs 256GB of SSD storage.</description>
+    </product>
+    <product id="28543">
+        <name>bike</name>
+        <price>9000</price>
+        <id>28543</id>
+        <description>A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.</description>
+    </product>
+    <product id="20193">
+        <name>mobile</name>
+        <price>40000</price>
+        <id>20193</id>
+        <description>The iPhone 14 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally actual viewable area is less.</description>
+    </product>
+    <product id="26233">
+        <name>led</name>
+        <price>30000</price>
+        <id>26233</id>
+        <description>In the simplest terms, a light-emitting diode (LED) is a semiconductor device that emits light when an electric current is passed through it.</description>
+    </product>
+</productlist>

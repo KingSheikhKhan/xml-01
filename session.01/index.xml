@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentlist>
+<student>
+    <name>Ali</name>
+    <course>DISM</course>
+    <fees>7100</fees>
+</student>
+<student>
+    <name>Bilal</name>
+    <course>DISM</course>
+    <fees>8100</fees>
+</student>
+<student>
+    <name>Hamza</name>
+    <course>DISM</course>
+    <fees>9100</fees>
+</student>
+<student>
+    <name>Huzaifa</name>
+    <course>DISM</course>
+    <fees>5100</fees>
+</student>
+</studentlist>
